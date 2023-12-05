@@ -32,4 +32,4 @@ Follow these steps to set up and run the Odometer Reader application locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/zaasfand/Odometer-Reader.git
+   git clone https://github.com/Sanaullahcs/odometer.git
